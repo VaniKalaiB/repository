@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10699" started-at="2019-10-17T07:16:33Z" finished-at="2019-10-17T07:16:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10699" started-at="2019-10-17T07:16:33Z" finished-at="2019-10-17T07:16:44Z">
+      <class name="testwebDriver.testwebDriver.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testwebDriver.testwebDriver.NewTest@7a9273a8]" name="beforeTest" is-config="true" duration-ms="3993" started-at="2019-10-17T07:16:33Z" finished-at="2019-10-17T07:16:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:testwebDriver.testwebDriver.NewTest@7a9273a8]" name="testEasy" duration-ms="5410" started-at="2019-10-17T07:16:37Z" finished-at="2019-10-17T07:16:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testwebDriver.testwebDriver.NewTest@7a9273a8]" name="afterTest" is-config="true" duration-ms="1277" started-at="2019-10-17T07:16:42Z" finished-at="2019-10-17T07:16:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testwebDriver.testwebDriver.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
